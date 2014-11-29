@@ -9,6 +9,8 @@ seeded with the following sources, all on Project Gutenburg:
 Some manual processing has taken place to remove the "front matter" from
 the PG text files.
 
+Sample output: https://gist.github.com/bstreiff/b95f352c488a76355cce
+
 It requires the git version of the "pronounce" gem: https://github.com/josephwilk/pronounce
 
 I actually substitute my own interface on top of some of the lower-level
